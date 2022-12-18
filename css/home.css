@@ -1,0 +1,109 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+
+.table1 {
+	width: 800px;
+	
+	background: red;
+	overflow: hidden;
+	background: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+}
+table {
+    border-collapse: collapse;
+	border: #0f0c29;
+    width: 100%;
+}
+th,td,tr{
+	padding: 8px;
+    text-align: left;
+	text-align: center;
+	color: aliceblue;
+}
+.find1{
+
+	width: 400px;
+	height:80px;
+	padding: 10px;
+	margin-right: 20px;
+	background: red;
+	overflow: hidden;
+	background: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+
+}
+.lbltxt{
+	margin-right: 10px;
+	color: aliceblue;
+}
+
+.btn{
+	
+	
+	color: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+	border-radius: 5px;
+	font-weight : bold;
+	color: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+
+}
+
+.myTickets{
+	margin-right: 20px;
+	width: 100px;
+	height: 20px;
+	padding: 10px;
+	color: aliceblue;
+	background: red;
+	overflow: hidden;
+	background: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+}
+
+#valuetxt{
+	margin-top: 5px;
+	width: 380px;
+}
+
+#btnFind{
+	margin-top: 5px;
+	width: 250px;
+	border-radius: 5px;
+
+	font-weight : bold;
+	color: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+
+}
+
+.btn1{
+	width: 100px;
+	border-radius: 5px;
+	font-weight : bold;
+	color: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+}
+
+.btn2 {
+	width: 100px;
+	border-radius: 5px;
+	font-weight : bold;
+	color: linear-gradient(to bottom, #2f2865, #403d6b, #333343);
+	margin-top: 1px;
+}
+
+
+
+
+
+
+
+
